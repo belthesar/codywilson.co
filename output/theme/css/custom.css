@@ -43,3 +43,11 @@
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe5e9f0', endColorstr='#ffd8dee9', GradientType=0);
     *zoom: 1;    
 }
+
+article p:not(#list-of-translations):not(#post-share-links) a:not(.ampl),
+    article ol a,
+    article div.article-content ul:not(.articles-timeline):not(.related-posts-list) a {
+
+        border-bottom: thin dashed var(--nord12);
+        color: var(--nord7);
+    }
