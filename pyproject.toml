@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "codywilson-co"
+version = "0.1.0"
+description = ""
+authors = ["belthesar <cody@codywilson.co>"]
+readme = "README.md"
+packages = [{include = "codywilson"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+peru = "^1.3.1"
+beautifulsoup4 = "^4.11.1"
+bs4 = "^0.0.1"
+cssmin = "^0.2.0"
+cssutils = "^2.6.0"
+flake8 = "^5.0.4"
+ghp-import = "^2.1.0"
+Markdown = "<3.2"
+pelican = "^4.8.0"
+piexif = "^1.1.3"
+Pillow = "^9.2.0"
+typogrify = "^2.0.7"
+webassets = "^2.0"
+pysvg-py3 = "^0.2.2.post3"
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
