@@ -1,6 +1,6 @@
 Title: The word "just" is a four letter word
-Date: 2023-03-08
-Category: Language
+Date: 2023-03-08 15:00
+Category: Communication
 Tags: language, writing, communication, psychological safety, leadership
 Slug: just
 Authors: Cody
