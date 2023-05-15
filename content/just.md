@@ -1,0 +1,18 @@
+Title: The word "just" is a four letter word
+Date: 2023-03-08
+Category: Language
+Tags: language, writing, communication, psychological safety, leadership
+Slug: just
+Authors: Cody
+
+How often have you posed a problem to a friend, a peer group, a forum, social media? How often have you received the response "just do X"? Or perhaps, how often have you been the one to respond with "just do X" when someone else has asked you for help? Have you ever thought about how hearing that made you feel, or how the person you were helping might have felt?
+
+Several years ago, I started on a crusade to try and eliminate the word "just" from my vocabulary. When responding to someone's question, using the word just conveys, intentionally or not, that the problem posed isn't difficult. By responding with "just do X", you're reducing the efforts that the asker went through to try and solve the problem themselves, and also inferring that the problem wasn't that difficult to begin with. When I'm on the recieving end of a "just do" response, I feel like I'm being talked down to, or that the person responding to me doesn't think that I'm capable of solving the problem myself. Not actively, like, I don't think that someone is intentionally trying to make me feel bad, but it certainly puts me on my heels. 
+
+The last thing someone should want to do when helping someone else is to put them on the defensive. This doesn't not strengthen the relationship between these two folks, or make them feel safe to ask for help in the future. This has discouraged me from asking for help from those people in the future, and has shifted the tone of conversations in the future to be more combative by default. It's a cumulative effect. 
+
+In the past, I hadn't really considered how folks received my feedback. Part of my awareness of this started on my journey to people leadership about 5 years ago. Say what you will about consultant programs to help teams "be more effective", but I've found that having a framework to operate under has been quite helpful. One of the ones I was exposed to at a previous employer was the Afterburner program, which introduced me to the concept of "red teaming" as an exercise to interrogate a plan and ofter criticism in a constructive and psychologically safe manner. In this process, you're instructed to frame your questions with the leading phrase "Have you considered" instead of "Why didn't you" or "Why don't you just". This is a subtle change of phrasing, but it's surprisingly powerful. It changes the tone from a combative one, where you're trying to defend your plan against attacks, to a collaborative one, where you're working together to make the plan better. 
+
+I've found that this is a useful tool to use in my day to day life, not just in the context of work. When someone asks me for help, I try to frame my responses in a way that doesn't make them feel like I'm talking down to them. I do my best to avoid using the word "just" when I'm responding to someone's question, It still slips through sometimes; it's a real easy thing to slip back into, especially when I'm pressed for time, and need to provide a quick response. It's a constant work in progress, but it also reminds me that in order to be more thoughtful in my responses, sometimes that requires me to take a step back and think about what I'm going to say before I say it. In our instant-communication world, it's become more and more difficult to slow down and take the time necessary to be thoughtful in our responses.
+
+I encourage you to consider removing the word "just" from your vocabulary. It's a small change, but it can have a big impact on the people around you.
